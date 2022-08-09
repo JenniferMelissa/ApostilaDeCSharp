@@ -54,7 +54,7 @@ namespace ApostilaDeCSharp.ParadigmaEstruturado
             notas[1] = 21;
             notas[2] = 7; 
             notas[3] = 15;
-            Console.WriteLine("Mostre as notas do");
+            Console.WriteLine("Mostre as notas!");
 
             double soma = 0;
 

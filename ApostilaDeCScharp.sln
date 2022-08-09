@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.ParadigmaEstruturado", "ApostilaDeCSharp.ParadigmaEstruturado\ApostilaDeCSharp.ParadigmaEstruturado.csproj", "{0BFD2825-A27C-4162-819C-5C48BD667B2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.EstruturasDeSelecao", "ApostilaDeCSharp.EstruturasDeSelecao\ApostilaDeCSharp.EstruturasDeSelecao.csproj", "{98A352A8-EDEE-4880-8888-3E0300AF4496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.OrientacaoObjetos", "ApostilaDeCSharp.OrientacaoObjetos\ApostilaDeCSharp.OrientacaoObjetos.csproj", "{3FB636E0-C8E6-4D2E-A3AA-1202D113CA2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0BFD2825-A27C-4162-819C-5C48BD667B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BFD2825-A27C-4162-819C-5C48BD667B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BFD2825-A27C-4162-819C-5C48BD667B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A352A8-EDEE-4880-8888-3E0300AF4496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A352A8-EDEE-4880-8888-3E0300AF4496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A352A8-EDEE-4880-8888-3E0300AF4496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A352A8-EDEE-4880-8888-3E0300AF4496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB636E0-C8E6-4D2E-A3AA-1202D113CA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB636E0-C8E6-4D2E-A3AA-1202D113CA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB636E0-C8E6-4D2E-A3AA-1202D113CA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB636E0-C8E6-4D2E-A3AA-1202D113CA2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
